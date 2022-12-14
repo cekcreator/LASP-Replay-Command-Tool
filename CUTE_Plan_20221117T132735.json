@@ -1,0 +1,3156 @@
+[
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/327-21:37:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 0.0,
+					"NUM": 10.0,
+					"TARGETID": 0.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/327-21:44:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/327-21:58:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/327-22:00:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/327-22:48:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/327-23:03:05"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/327-23:13:15"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/327-23:20:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/327-23:33:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/327-23:36:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-00:24:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-00:36:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/328-00:49:00"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-00:56:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-01:09:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-01:12:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-02:00:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-02:13:00"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-02:24:40"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-02:31:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-02:44:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-02:48:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-03:36:05"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-04:00:30"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-04:07:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-04:20:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-04:24:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-05:11:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-05:36:15"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-05:43:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-05:56:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-05:59:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-06:47:40"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-07:12:05"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-07:19:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-07:32:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-07:35:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-08:10:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-08:23:25"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-08:47:50"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-08:54:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-09:08:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-09:11:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-09:44:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-09:59:10"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-10:23:40"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-10:30:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-10:43:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-10:47:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-11:17:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-11:34:55"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-11:59:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-12:06:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-12:19:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-12:22:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-12:51:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-13:10:45"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-13:35:15"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-13:42:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-13:55:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-13:58:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-14:29:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-14:46:30"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-15:11:00"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-15:18:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-15:31:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-15:34:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/328-15:55:30"
+				},
+				"utc_time": "2022/328-15:47:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-16:22:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-16:46:50"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-16:53:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-17:07:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-17:10:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/328-17:32:55"
+				},
+				"utc_time": "2022/328-17:20:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-17:58:00"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-18:22:35"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-18:29:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-18:42:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-18:46:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/328-19:05:00"
+				},
+				"utc_time": "2022/328-18:56:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-19:33:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-19:58:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-20:05:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-20:18:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-20:21:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-21:09:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-21:26:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-21:34:10"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-21:41:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-21:54:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-21:57:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-22:45:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/328-22:59:45"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/328-23:10:00"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/328-23:17:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/328-23:30:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/328-23:33:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-00:21:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-00:32:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-00:45:45"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-00:52:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-01:05:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-01:09:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-01:56:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-02:09:20"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-02:21:30"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-02:28:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-02:41:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-02:44:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-03:32:40"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-03:57:20"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-04:04:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-04:17:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-04:20:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-05:08:25"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-05:33:05"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-05:40:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-05:53:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-05:56:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-06:44:10"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-07:08:55"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-07:16:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-07:29:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-07:32:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-08:07:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-08:19:55"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-08:44:40"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-08:51:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-09:04:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-09:07:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-09:40:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-09:55:45"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8568314739,
+					"Q_CMD_WRT_REF_2": -0.3192374597,
+					"Q_CMD_WRT_REF_3": 0.3977512867,
+					"Q_CMD_WRT_REF_4": -0.0756385056
+				},
+				"utc_time": "2022/329-10:20:30"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-10:27:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-10:40:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-10:43:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-11:13:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-11:31:30"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/329-11:56:20"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-12:03:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-12:16:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-12:19:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-12:48:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-13:07:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/329-13:32:10"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-13:39:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-13:52:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-13:55:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-14:25:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-14:43:00"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8545098115,
+					"Q_CMD_WRT_REF_2": -0.3205868379,
+					"Q_CMD_WRT_REF_3": 0.4024187033,
+					"Q_CMD_WRT_REF_4": -0.0713880143
+				},
+				"utc_time": "2022/329-15:07:55"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 0.0,
+					"NUM": 10.0,
+					"TARGETID": 0.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-15:15:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-15:29:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-15:31:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/329-15:51:50"
+				},
+				"utc_time": "2022/329-15:44:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-16:18:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8538606603,
+					"Q_CMD_WRT_REF_2": -0.3170955885,
+					"Q_CMD_WRT_REF_3": 0.4051754202,
+					"Q_CMD_WRT_REF_4": -0.0787733421
+				},
+				"utc_time": "2022/329-16:43:45"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-16:50:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-17:03:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-17:06:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/329-17:29:30"
+				},
+				"utc_time": "2022/329-17:17:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-17:54:35"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/329-18:19:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-18:26:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-18:39:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-18:42:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/329-19:01:45"
+				},
+				"utc_time": "2022/329-18:53:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-19:30:20"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/329-19:55:10"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-20:02:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-20:15:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-20:18:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-21:06:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-21:22:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/329-21:31:00"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-21:38:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-21:51:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-21:54:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-22:41:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/329-22:56:25"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/329-23:06:45"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/329-23:13:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/329-23:26:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/329-23:29:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-00:17:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-00:29:30"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-00:42:35"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-00:49:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-01:02:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-01:05:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-01:53:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-02:05:35"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-02:18:20"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-02:25:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-02:38:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-02:41:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-03:29:10"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-03:54:10"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-04:01:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-04:14:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-04:17:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-05:04:55"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-05:29:55"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-05:37:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-05:50:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-05:52:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-06:40:45"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-07:05:45"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-07:12:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-07:25:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-07:28:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-08:03:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-08:16:30"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-08:41:30"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-08:48:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-09:01:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-09:04:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-09:37:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-09:52:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-10:17:20"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-10:24:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-10:37:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-10:40:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-11:10:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-11:28:00"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-11:53:05"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-12:00:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-12:13:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-12:16:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-12:44:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-13:03:50"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-13:28:55"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-13:36:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-13:49:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-13:51:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-14:22:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-14:39:35"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-15:04:40"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-15:11:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-15:24:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-15:27:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/330-15:48:05"
+				},
+				"utc_time": "2022/330-15:41:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-16:15:20"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-16:40:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-16:47:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-17:00:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-17:03:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/330-17:26:05"
+				},
+				"utc_time": "2022/330-17:14:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-17:51:05"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-18:16:15"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-18:23:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-18:36:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-18:39:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/330-18:58:30"
+				},
+				"utc_time": "2022/330-18:49:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-19:26:55"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-19:52:00"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-19:59:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-20:12:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-20:14:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-21:02:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-21:19:25"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-21:27:50"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-21:34:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-21:48:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-21:50:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-22:38:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/330-22:53:00"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/330-23:03:35"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/330-23:10:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/330-23:23:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/330-23:26:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-00:14:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-00:26:05"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8561755206,
+					"Q_CMD_WRT_REF_2": -0.3156589569,
+					"Q_CMD_WRT_REF_3": 0.4005277475,
+					"Q_CMD_WRT_REF_4": -0.0830687936
+				},
+				"utc_time": "2022/331-00:39:25"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 101.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/331-00:46:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/331-00:59:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-01:02:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-01:49:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-02:01:55"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8538606603,
+					"Q_CMD_WRT_REF_2": -0.3170955885,
+					"Q_CMD_WRT_REF_3": 0.4051754202,
+					"Q_CMD_WRT_REF_4": -0.0787733421
+				},
+				"utc_time": "2022/331-02:15:15"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/331-02:22:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/331-02:35:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-02:37:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-03:25:45"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8538606603,
+					"Q_CMD_WRT_REF_2": -0.3170955885,
+					"Q_CMD_WRT_REF_3": 0.4051754202,
+					"Q_CMD_WRT_REF_4": -0.0787733421
+				},
+				"utc_time": "2022/331-03:51:05"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/331-03:58:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/331-04:11:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-04:13:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-05:01:30"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8538606603,
+					"Q_CMD_WRT_REF_2": -0.3170955885,
+					"Q_CMD_WRT_REF_3": 0.4051754202,
+					"Q_CMD_WRT_REF_4": -0.0787733421
+				},
+				"utc_time": "2022/331-05:26:50"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 300000.0,
+					"NUM": 2.0,
+					"TARGETID": 255.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/331-05:33:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/331-05:47:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-05:49:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-06:37:15"
+			},
+			{
+				"command_type": "xb1",
+				"mnemonic": "GOTO_ECI_ATTITUDE",
+				"args": {
+					"PRI_CMD_DIR": 3.0,
+					"SEC_CMD_DIR": 1.0,
+					"Q_CMD_WRT_REF_1": 0.8538606603,
+					"Q_CMD_WRT_REF_2": -0.3170955885,
+					"Q_CMD_WRT_REF_3": 0.4051754202,
+					"Q_CMD_WRT_REF_4": -0.0787733421
+				},
+				"utc_time": "2022/331-07:02:35"
+			},
+			{
+				"command_type": "fsw",
+				"mnemonic": "PLD_CCD_EXPOSE_CLOSED",
+				"args": {
+					"TIME": 0.0,
+					"NUM": 10.0,
+					"TARGETID": 0.0,
+					"OPT1": 7.0,
+					"OPT2": 0.0,
+					"OPT3": 0.0,
+					"OPT4": 0.0,
+					"DARKSRC": 1.0,
+					"BIASSRC": 0.0,
+					"DST": 16.0
+				},
+				"utc_time": "2022/331-07:09:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Charging",
+				"args": {},
+				"utc_time": "2022/331-07:24:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-07:25:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-08:00:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-08:13:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-09:01:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-09:34:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-09:48:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-10:36:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-11:07:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-11:24:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-12:12:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-12:41:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-13:00:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-13:48:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-14:18:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-14:36:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-15:24:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/331-15:44:20"
+				},
+				"utc_time": "2022/331-15:38:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-16:11:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-16:59:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/331-17:22:40"
+				},
+				"utc_time": "2022/331-17:10:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-17:47:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-18:35:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/331-18:55:15"
+				},
+				"utc_time": "2022/331-18:46:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-19:23:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-20:11:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-20:59:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-21:16:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-21:47:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-22:34:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/331-22:49:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/331-23:22:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-00:10:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-00:22:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-00:58:40"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-01:46:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-01:58:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-02:34:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-03:22:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/332-04:06:50"
+				},
+				"utc_time": "2022/332-03:55:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-04:10:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-04:58:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/332-05:41:15"
+				},
+				"utc_time": "2022/332-05:30:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-05:46:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-06:33:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-07:21:45"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-07:56:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-08:09:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-08:57:30"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-09:30:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-09:45:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-10:33:15"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-11:03:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-11:21:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-12:09:00"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-12:37:55"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-12:56:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-13:44:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "SAA",
+				"args": {},
+				"utc_time": "2022/332-14:14:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-14:32:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-15:20:35"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/332-15:40:30"
+				},
+				"utc_time": "2022/332-15:34:50"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-16:08:25"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-16:56:20"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/332-17:19:10"
+				},
+				"utc_time": "2022/332-17:07:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-17:44:10"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Polar Keepout",
+				"args": {},
+				"utc_time": "2022/332-18:32:05"
+			},
+			{
+				"command_type": "placeholder",
+				"mnemonic": "Boulder Passover",
+				"args": {
+					"los_time": "2022/332-18:52:00"
+				},
+				"utc_time": "2022/332-18:42:50"
+			}
+		]
