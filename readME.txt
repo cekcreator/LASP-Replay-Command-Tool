@@ -1,5 +1,7 @@
 Hello! This file entails all the details about "frameCheckTool.py". Includes how to run, with the correct inputs, and details the code itself
 
+**THERE ARE NOT ENOUGH FILES TO RUN CORRECTLY WITH THE GITHUB DOWNLOAD. I KEPT ARIKAS CODE AND OTHER CUTE THINGS OUT FOR EXPORT CONTROL REASONS**
+
 **The function using the stac table is commented out, i am keeping it in just incase** 
 
 Why:
